@@ -1,5 +1,10 @@
 module.exports = {
 
+    jwt:{
+        secret:"peinepasswdtopultramegaquinteromarcianitocumbiasecreto",
+        expiresIn:"1 day"
+    },
+
     database:{
 
         host     : 'localhost',
